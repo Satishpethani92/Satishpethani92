@@ -1,6 +1,5 @@
 ## Satish pethani
 
-## Hi there, my name is <Satish pethani/>
 I'm a front-end (React/React Native) software engineer who loves creative coding! 👩🏼‍💻
 <br />
 
@@ -17,8 +16,6 @@ I've worked professionally in the tech industry for 12 years and I have a formal
 ## 📊 GitHub Stats:
 
 ![Satish's Github Stats](https://github-readme-stats-kayla-kremer.vercel.app/api?username=satishpethani92&count_private=true&show_icons=true&border_color=80b1ff&title_color=d680ff&icon_color=d680ff&text_color=80b1ff&bg_color=151515) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satishpethani92)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=satishpethani92)
 
