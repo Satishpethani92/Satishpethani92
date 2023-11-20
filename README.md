@@ -1,7 +1,10 @@
-# 🕊️ Welcome to my GitHub profile 👋 
+## Satish pethani
 
-## 💫 About Me:
-🔭 **I’m currently working on:** Various mobile app development projects, leveraging my 8+ years of experience in the field.<br><br>👯 **I’m looking to collaborate on:** Exciting mobile app development projects that challenge my skills and push boundaries.?<br><br>🤝 **I’m looking for help with:** Exploring new technologies and staying up-to-date with the latest trends in mobile app development.<br><br>🌱 **I’m currently learning:** New frameworks and technologies to expand my capabilities as a mobile app developer.<br><br>💬 **Ask me about:** Mobile app architecture, UI/UX design, native and cross-platform development, app monetization strategies, and more.<br><br>⚡ **Fun fact:** Did you know that mobile apps have become an integral part of our lives, with billions of downloads and countless hours spent on them every day?
+## Hi there, my name is <Satish pethani/>
+I'm a front-end (React/React Native) software engineer who loves creative coding! 👩🏼‍💻
+<br />
+
+I've worked professionally in the tech industry for 12 years and I have a formal fine arts education in web3, crypto payment, health related mobile application. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences!
 
 
 ## 🌐 Connect with me 🙋‍♂️:
@@ -12,7 +15,12 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white) ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat-square&logo=apple&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat-square&logo=android&logoColor=%a4c639) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=satishpethani92&theme=shades-of-purple&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satishpethani92&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Satish's Github Stats](https://github-readme-stats-kayla-kremer.vercel.app/api?username=satishpethani92&count_private=true&show_icons=true&border_color=80b1ff&title_color=d680ff&icon_color=d680ff&text_color=80b1ff&bg_color=151515) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satishpethani92)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=satishpethani92)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=satishpethani92&icon=0&color=11)](https://visitcount.itsvg.in)
