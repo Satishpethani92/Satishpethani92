@@ -17,8 +17,7 @@ I've worked professionally in the tech industry for 12 years and I have a formal
 
 ![Satish's Github Stats](https://github-readme-stats-kayla-kremer.vercel.app/api?username=satishpethani92&count_private=true&show_icons=true&border_color=80b1ff&title_color=d680ff&icon_color=d680ff&text_color=80b1ff&bg_color=151515) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=)]
 ---
 [![](https://visitcount.itsvg.in/api?id=satishpethani92&icon=0&color=11)](https://visitcount.itsvg.in)
 
