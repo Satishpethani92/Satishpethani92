@@ -1,6 +1,6 @@
 ## Satish pethani
 
-I'm a front-end (React/React Native) software engineer who loves creative coding! 👩🏼‍💻
+I'm a Full stack (React/React Native/Node/Express/Flutter) software engineer who loves creative coding! 👩🏼‍💻
 <br />
 
 I've worked professionally in the tech industry for 12 years and I have a formal fine arts education in web3, crypto payment, health related mobile application. I love the intersection of where code meets art to create engaging, interactive, and accessible experiences!
